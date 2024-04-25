@@ -1,0 +1,1 @@
+https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480
