@@ -1,9 +1,9 @@
-package org.example.singleton.test;
+package org.example.creational.singleton.test;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
-import org.example.singleton.def.EnumSingleton;
-import org.example.singleton.def.LazySingleton;
+import org.example.creational.singleton.def.EnumSingleton;
+import org.example.creational.singleton.def.LazySingleton;
 
 public class SingletonTest {
 
